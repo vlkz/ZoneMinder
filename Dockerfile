@@ -1,6 +1,6 @@
 # ZoneMinder
 
-FROM ubuntu:precise
+FROM ubuntu:trusty
 MAINTAINER Kyle Johnson <kjohnson@gnulnx.net>
 
 # Let the container know that there is no tty
